@@ -22,5 +22,6 @@ public class SingleInheritance extends SingleChildClass  {
 		k.northIndia();
 		k.state();
 		k.country();
+		k.city();
 }
 }
