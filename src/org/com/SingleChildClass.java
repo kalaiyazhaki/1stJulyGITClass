@@ -16,4 +16,7 @@ public class SingleChildClass {
   public void country() {
 		System.out.println("Country:3");
 	}
+  public void city() {
+		System.out.println("Country:3");
+	}
 }
