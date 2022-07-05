@@ -20,6 +20,7 @@ public class SingleInheritance extends SingleChildClass  {
 		k.hindiLanguage();
 		k.southIndia();
 		k.northIndia();
+		k.state();
 		k.country();
 }
 }

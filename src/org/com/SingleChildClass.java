@@ -9,8 +9,11 @@ public class SingleChildClass {
 	public void northIndia() {
 		System.out.println("North india:2");
 	}
-	public void country() {
-		System.out.println("Country:3");
+	public void state() {
+		System.out.println("State:3");
 	}
 
+  public void country() {
+		System.out.println("Country:3");
+	}
 }
